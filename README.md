@@ -42,6 +42,18 @@
 
 ## Technologies Used
 ---
+
+### Languages 
+- HTML
+- CSS
+- JavaScript
+- Python
+- Django
+
+### Tools 
+
+- [Image Color Picker](https://imagecolorpicker.com/color-code/20442c)
+
 ## Testing
 --- 
 ### Code Validation
