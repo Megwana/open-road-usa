@@ -31,6 +31,9 @@
 ### User Stories
 ### Scope
 ### Structure
+#### Skeleton
+
+[Wireframes can be viewed here](https://share.balsamiq.com/c/jFLAg5a7apUrV86ucTo7tU.png)
 
 ## Features
 ---
